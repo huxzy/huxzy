@@ -37,8 +37,8 @@ Here are three production apps I've shipped that you can explore directly:
 ### 📊 GitHub activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=huxzy&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huxzy&hide_border=true&theme=default" height="150" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huxzy&theme=default" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huxzy&theme=default" height="150" />
 </p>
 
 ---
