@@ -32,14 +32,6 @@ Here are three production apps I've shipped that you can explore directly:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
----
-
-### 📊 GitHub activity
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huxzy&theme=default" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huxzy&theme=default" height="150" />
-</p>
 
 ---
 
