@@ -15,6 +15,7 @@ Here are three production apps I've shipped that you can explore directly:
 | Project | Description | Link |
 |---|---|---|
 | **Inspector Line** | AI-powered 24/7 receptionist SaaS for home inspectors | [inspectorline.com](https://inspectorline.com) |
+| **Girki** | Meal suggestion app for Nigerian cuisine, live on iOS & Android | [girki.app](https://girki.app) |
 | **Steward Core** | Enterprise data governance & compliance platform | [stewardcore.com](https://stewardcore.com) |
 | **e-MMS** | Material management system for the oil & gas sector | [e-mms.nipex-ng.com](https://e-mms.nipex-ng.com) |
 
