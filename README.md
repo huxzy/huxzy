@@ -1,6 +1,6 @@
 # Hi, I'm Huzaifa 👋
 
-**Frontend Engineer & Team Lead** based in Abuja, Nigeria.
+**Software Engineer & Team Lead** based in Abuja, Nigeria.
 
 I build scalable, production-ready web applications — mostly with **React, Next.js, and TypeScript**. Currently leading the frontend team at Right Click IT Solutions, where I focus on clean architecture, performance, and shipping things that actually get used.
 
